@@ -29,7 +29,7 @@ Configure your MCP client to use muninn with your repositories:
 
 ## Sync Test Section
 
-Testing modification sync: UNIQUE-MOD-STRING-98765-MODIFIED-$(date +%s)
+Testing modification sync: UNIQUE-MOD-STRING-98765
 
 ## Next Steps
 
