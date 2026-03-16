@@ -27,6 +27,10 @@ Configure your MCP client to use muninn with your repositories:
 }
 ```
 
+## Sync Test Section
+
+Testing modification sync: UNIQUE-MOD-STRING-98765
+
 ## Next Steps
 
 - Read the [API Reference](./api-reference.md) for available tools
